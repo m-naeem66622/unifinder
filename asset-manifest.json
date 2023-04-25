@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/m-naeem66622/static/css/main.a7df2e4c.css",
-    "main.js": "/m-naeem66622/static/js/main.7cfe6828.js",
-    "static/js/787.76405e06.chunk.js": "/m-naeem66622/static/js/787.76405e06.chunk.js",
-    "static/media/Spinner.svg": "/m-naeem66622/static/media/Spinner.be472c43936edd4cf76aef36ebbbdb44.svg",
-    "static/media/github.svg": "/m-naeem66622/static/media/github.4689e150db2e1639a5ffc82ec52b8ba8.svg",
-    "index.html": "/m-naeem66622/index.html",
-    "static/media/heart-solid.svg": "/m-naeem66622/static/media/heart-solid.e0b25cbd93b2c36a9d3cffad3722ca97.svg",
-    "main.a7df2e4c.css.map": "/m-naeem66622/static/css/main.a7df2e4c.css.map",
-    "main.7cfe6828.js.map": "/m-naeem66622/static/js/main.7cfe6828.js.map",
-    "787.76405e06.chunk.js.map": "/m-naeem66622/static/js/787.76405e06.chunk.js.map"
+    "main.css": "/m-naeem66622/unifinder/static/css/main.a7df2e4c.css",
+    "main.js": "/m-naeem66622/unifinder/static/js/main.2412ca05.js",
+    "static/js/787.76405e06.chunk.js": "/m-naeem66622/unifinder/static/js/787.76405e06.chunk.js",
+    "static/media/Spinner.svg": "/m-naeem66622/unifinder/static/media/Spinner.be472c43936edd4cf76aef36ebbbdb44.svg",
+    "static/media/github.svg": "/m-naeem66622/unifinder/static/media/github.4689e150db2e1639a5ffc82ec52b8ba8.svg",
+    "index.html": "/m-naeem66622/unifinder/index.html",
+    "static/media/heart-solid.svg": "/m-naeem66622/unifinder/static/media/heart-solid.e0b25cbd93b2c36a9d3cffad3722ca97.svg",
+    "main.a7df2e4c.css.map": "/m-naeem66622/unifinder/static/css/main.a7df2e4c.css.map",
+    "main.2412ca05.js.map": "/m-naeem66622/unifinder/static/js/main.2412ca05.js.map",
+    "787.76405e06.chunk.js.map": "/m-naeem66622/unifinder/static/js/787.76405e06.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a7df2e4c.css",
-    "static/js/main.7cfe6828.js"
+    "static/js/main.2412ca05.js"
   ]
 }
