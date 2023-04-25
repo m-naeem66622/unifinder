@@ -1,0 +1,7 @@
+# Set the default line-ending style based on the operating system
+* text=auto
+
+# Exclude binary files from line-ending modification
+*.bin binary
+*.jpg binary
+*.png binary
