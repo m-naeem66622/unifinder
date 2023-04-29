@@ -34,9 +34,14 @@ function Showcase() {
                 }
             }).filter(Boolean).join('&');
 
-        const res = await axios.get('http://universities.hipolabs.com/search?' + query);
+        const options = {
+            method: "GET"
+        }
 
-        setList(res.data);
+        const res = await fetch('http://universities.hipolabs.com/search?' + query, options);
+        const json = await res.json();
+
+        setList(json);
         setLoading(false);
     }
 
